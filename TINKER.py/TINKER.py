@@ -5,4 +5,4 @@ while True:
         print("Access granted.")
         break
     else:
-        print("Access denied. Try again.")
+        print("Incorrect pasword. Try again.")
